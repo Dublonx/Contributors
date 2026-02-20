@@ -29,3 +29,11 @@ Aspiring Frontend Developer and Graphic Designer focused on creating a responsiv
 **Tools:**
 - Git
 - Github
+
+### Projects
+
+| Name | Live Demo |
+| ----- | ----- |
+| 1. Profile Card | ![Demo](https://dublonx.github.io/Profile-Card) |
+| 2. Subscription | ![Demo](https://dublonx.github.io/Subscription) |
+| 3. Sign In | ![Demo](https://dublonx.github.io/Sign-In)
